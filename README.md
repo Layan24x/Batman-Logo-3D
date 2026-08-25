@@ -1,48 +1,57 @@
-# Batman Logo 3D 
+# 3D Batman Logo
 
 ## Description
 
-A 3D-printable **Batman Logo** model provided in STL format. This model is designed as a simple decorative piece and can be used for:
+A 3D Batman logo model, available in STL format. This model is designed as a simple decorative piece and can be used for:
 
 * 3D printing
-* Cosplay projects
-* Room decoration
-* Desk accessories
+* Costume projects
+* Room decor
+* Office accessories
 * Other creative projects
 
 ## Model Dimensions
 
-The original STL model has the following approximate dimensions:
+The approximate dimensions of the original model in STL format are:
 
-| Dimension         |                Size |
+| Dimensions | Size |
+
 | ----------------- | ------------------: |
-| **Width (X)**     | 124.4 mm / 12.44 cm |
-| **Height (Z)**    |   65.6 mm / 6.56 cm |
-| **Thickness (Y)** |   12.7 mm / 1.27 cm |
 
-**Overall size:** approximately **12.44 × 6.56 × 1.27 cm**
+| **Width (W)** | 124.4 mm / 12.44 cm |
+
+| **Height (H)** | 65.6 mm / 6.56 cm |
+
+| **Thickness (H)** | 12.7 mm / 1.27 cm |
+... **Overall Size:** Approximately **12.44 x 6.56 x 1.27 cm**
 
 ## File Format
 
-* **STL** – suitable for most 3D-printing slicers and CAD/3D-printing software.
+* **STL** - Suitable for most 3D printing and CAD/3D printing software.
 
 ## 3D Printing
 
-The model can be imported directly into common slicer software such as:
+The model can be imported directly into popular slicing software such as:
 
 * Cura
 * PrusaSlicer
 * Bambu Studio
 * OrcaSlicer
 
-You can scale the model in your slicer if a different size is required.
+You can resize the model in your slicing software if you require a different size.
 
 ## Notes
 
-* Dimensions are approximate and may vary slightly depending on the software used to measure the STL.
-* The model can be scaled proportionally while maintaining its original shape.
-* Please check the model in your slicer before printing to choose the appropriate print settings and orientation.
+* Dimensions are approximate and may vary slightly depending on the software used to measure the STL file.
 
-## License
+* The model can be resized proportionally while maintaining its original shape.
 
-Please add your preferred license here if you are the original creator of the model.
+* Please preview the model in your slicing software before printing to select the appropriate print settings and orientation.
+
+## Design
+
+Designed in OnShape.
+
+Link: https://cad.onshape.com/documents/163d3ed568e931716175cb13/w/8e2632a0ee0e7254109cb4b9/e/76abb6788668da5c4287e989?renderMode=0&uiState=6a8dedc69c35fbbfce428b3a
+
+
